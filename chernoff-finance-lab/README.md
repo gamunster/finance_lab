@@ -1,12 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="../Captura de pantalla_2026-02-04_21-40-17.png" />
+<img width="1200" height="475" alt="GHBanner" src="advanced_financial.png" />
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1ZDoD3XhmhfqOqftorIIlqfdrU4qKhEHN
 
 ## Run Locally
 
