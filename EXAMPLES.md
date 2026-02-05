@@ -1,17 +1,5 @@
 # Usage Examples and Scenarios
 
-## Quick Start
-
-### Compile the Application
-```bash
-javac Grid.java ChernoffSolver.java OptionPricingModel.java Main.java
-```
-
-### Run the Application
-```bash
-java Main
-```
-
 ## Example Scenarios
 
 ### Example 1: Standard European Call Option
